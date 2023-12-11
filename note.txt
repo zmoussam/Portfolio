@@ -1,0 +1,3 @@
+- search for svg
+- search for clip-path prop in css
+- search for fill, filter props in css
