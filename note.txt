@@ -1,3 +1,11 @@
 - search for svg
 - search for clip-path prop in css
 - search for fill, filter props in css
+- search for align-items: baseline;
+- search for .skills__item::marker{}
+- search for <textarea> in html
+- search for resize: none; css
+- emailjs.com
+- search for current.offsetHeight, current.offsetTop
+- search for :is(.about__data) :is(.section__subtitle, .section__title)
+- take a look at https://scrollrevealjs.org/guide/customization.html
