@@ -325,10 +325,10 @@ svg {
   X(horizontal) Y(vetical) property
 */
 
-/* .home__img {
+.home__img {
   width: 900px;
-  transform: translateX(-120px);
-} */
+  transform: translate(-82px, 26px);
+}
 /*=============== BUTTON ===============*/
 .button__container{
   display: flex;
@@ -374,6 +374,12 @@ svg {
 
 .about__blob path{
   stroke:var(--first-color);
+}
+
+.about__img {
+  width: 850px;
+  /* height: 1000px; */
+  transform: translate(-97px, 58px);
 }
 /*=============== SKILLS ===============*/
 .skills{
